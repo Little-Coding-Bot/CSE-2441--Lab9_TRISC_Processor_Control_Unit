@@ -6,6 +6,9 @@ The opcodes for the 3 commands are:
 
 We have the verilog code for the Three Instruction Controller, which we convert to bsf (symbol file).  
 
-The symbol file for our ThreeController is ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Three%20Instruction%20Controller/ThreeController%20Symbol%20File.png)  
+The symbol file for our ThreeController is   
 
-And the bdf (block diagram) is ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Three%20Instruction%20Controller/ThreeController.png)
+![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Three%20Instruction%20Controller/ThreeController%20Symbol%20File.png)  
+
+And the bdf (block diagram) is   
+![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Three%20Instruction%20Controller/ThreeController.png)
