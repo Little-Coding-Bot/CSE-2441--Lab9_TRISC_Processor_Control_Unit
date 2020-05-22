@@ -3,11 +3,12 @@ Ninth lab assignment for CSE2441 (Introduction to Digital Logic). Implementing t
 
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Instruction%20Decoder/TRISC%20Controller%20Diagram.png) 
 
+## TRISC Organization
 The TRISC organization is  
 
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/TRISC%20Organization.png)  
 
-
+## TRISC Instruction Set
 The TRISC Instruction Set for Lab 9 is  
 
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/TRISC%20Instruction%20Set.png) 
