@@ -12,7 +12,7 @@ The opcodes for the 6 commands are:
 
 We have the verilog code for the Six Instruction Controller, which we convert to a .bsf (symbol file), the symbol file of our SixController is:  
 
-![]()
+![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Six%20Instruction%20Controller/SixController%20Symbol%20File.png)
 
 The bdf (block diagram) of our Six Instruction Controller is: 
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Six%20Instruction%20Controller/SixController.png)
