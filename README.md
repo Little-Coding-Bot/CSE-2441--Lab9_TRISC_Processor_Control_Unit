@@ -4,17 +4,21 @@ Ninth lab assignment for CSE2441 (Introduction to Digital Logic). Implementing t
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Instruction%20Decoder/TRISC%20Controller%20Diagram.png) 
 
 The TRISC organization is  
+
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/TRISC%20Organization.png)  
 
 
 The TRISC Instruction Set for Lab 9 is  
+
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/TRISC%20Instruction%20Set.png) 
 
 
 And the Controller Finite State Machine (FSM) State Diagram for INC and CLR Instructions is  
+
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Controller%20FSM%20State%20Diagram%20for%20INC%20and%20CLR%20Instructions.png)  
 
 
+## Lab Parts
 The lab was done in multiple parts:
 * The first part was to build an Instruction Decoder (ID) that can receive the input and decode it.  
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Instruction%20Decoder/Instruction%20Decoder.png)  
