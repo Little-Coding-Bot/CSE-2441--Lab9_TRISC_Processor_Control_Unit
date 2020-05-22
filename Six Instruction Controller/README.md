@@ -10,7 +10,16 @@ The opcodes for the 6 commands are:
 * CLR opcode 	= 0111 => 7
 * JMP opcode 	= 1000 => 8
 
-We have the verilog code for the Six Instruction Controller, which we convert to a .bsf (symbol file), the symbol file of our SixController is:  
+We have the verilog code for the Six Instruction Controller, which we convert to a .bsf (symbol file),  
+
+
+In the verilog code we set certain TRISC control values to either 0 (OFF) or 1 (ON). The TRISC control codes are   
+![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/TRISC%20Control%20Signals.png)  
+
+
+
+
+the symbol file of our SixController is:  
 
 ![](https://github.com/ShameenShetty/CSE-2441--Lab9_TRISC_Processor_Control_Unit/blob/master/Six%20Instruction%20Controller/SixController%20Symbol%20File.png)
 
